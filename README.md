@@ -6,8 +6,8 @@ Contiene 2 proyectos realizados en ReactJS. La primera carpeta es una réplica d
 # Folder structure
 ``` 
 Parcial2Web/sonystore--------------Contiene el proyecto en ReactJS con los scripts de cada componente de la página.
-appfinal2/uaorutas-----Contiene el proyecto en ReactJS. En este están todas las funcionalidades utilizadas para el funcionamiento correcto de la página.
-appfinal2/uaorutasbd--------Contiene la base de datos utilizada para la aplicación web. Se utilizo NodeJS
+appfinal2/uaorutas-----------------Contiene el proyecto en ReactJS. En este están todas las funcionalidades utilizadas para el funcionamiento correcto de la página.
+appfinal2/uaorutasbd---------------Contiene la base de datos utilizada para la aplicación web. Se utilizo NodeJS
 ```
 Para la propuesta de aplicación, se utilizaron librerías que simularan en totalidad el funcionamiento correcto de la página. Se encuentra el uso de cookies para el traspaso de información, md5 para la encriptación de la contraseña en el login, nodejs para la base de datos local y axios para hacer peticiones HTTP.
 
