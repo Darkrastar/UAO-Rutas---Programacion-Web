@@ -1,31 +1,27 @@
-# ProgramacionWebReact
+# ProgramacionWebReactJS
 
 # UAO Rutas---Programación Web
-Este es un proyecto 
+Contiene 2 proyectos realizados en ReactJS. La primera carpeta es una réplica de la página de SonyStore y la segunda es una propuesta de aplicación para la universidad autónoma de occidente. En el último se utiliza APIS locales y APIS para la plataforma de Google Cloud. 
 
 # Folder structure
 ``` 
-AirIO--------------It is the page in PHP, it receives the data transferred from ubidots, by a REST request.
-ArduinoProject-----It is the .ino.hex file that contains the logic of the Arduino code. 
-JavaProject--------It is the Java code that contains the logic of collecting data using a serial port and then transferring it to a web server.
-AirIO.pdsprj--Is the Proteus file that contains the Arduino Simultion and Sensors.
+Parcial2Web/sonystore--------------Contiene el proyecto en ReactJS con los scripts de cada componente de la página.
+appfinal2/uaorutas-----Contiene el proyecto en ReactJS. En este están todas las funcionalidades utilizadas para el funcionamiento correcto de la página.
+appfinal2/uaorutasbd--------Contiene la base de datos utilizada para la aplicación web. Se utilizo NodeJS
 ```
-The proteus simulator simulates the collection of data in sensors that will then be sent to the Java project through a serial port (VSPE). Then this data will be sent to the Ubidots platform, then the PHP page will retrieve it and display the data on a dashboard. 
+Para la propuesta de aplicación, se utilizaron librerías que simularan en totalidad el funcionamiento correcto de la página. Se encuentra el uso de cookies para el traspaso de información, md5 para la encriptación de la contraseña en el login, nodejs para la base de datos local y axios para hacer peticiones HTTP.
 
 # Versions
 ``` 
 Software
-PHP -----------------Version 7.2.34
-Java-----------------Version 8 update 281 (compilation 1.8.0_281-b09)
-Proteus--------------Version 8.5 SP0 (Build 22067)
-Arduino--------------Version 1.8.12
-Netbeans-------------Version 8.2 (Build 201609300101)
-Visual Studio Code---Version 1.53.2
-VSPE-----------------Version 6.2.9200.2
-Xampp----------------Version 7.2.34
+ReactJS------------------------------------Version 17.0.2
+NodeJS-------------------------------------Version 14.18.0
 
 Library
-ArduinoJson----------------------Vesrion 6.17.2
-PanamaHitek_Arduino--------------Version 3.0.0
-org.eclipse.paho.client.mqttv3---Version 1.1.0
+react-google-maps/api----------------------Version 2.7.0
+google-maps-react--------------------------Version 2.0.6
+axios--------------------------------------Version 0.24.0
+bootstrap----------------------------------Version 5.1.3
+md5----------------------------------------Version 2.3.0
+universal-cookie---------------------------Version 4.0.4
 ``` 
