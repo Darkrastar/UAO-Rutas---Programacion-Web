@@ -1,6 +1,5 @@
-# ProgramacionWebReactJS
-
 # UAO Rutas---Programación Web
+
 Contiene 2 proyectos realizados en ReactJS. La primera carpeta es una réplica de la página de SonyStore y la segunda es una propuesta de aplicación para la universidad autónoma de occidente. En el último se utiliza APIS locales y APIS para la plataforma de Google Cloud. 
 
 # Folder structure
