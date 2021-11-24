@@ -1,0 +1,18 @@
+.cartJuegosContenedor{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5rem;
+    align-items: center
+}
+.cartJuegosh1{
+
+
+    font-size: 28px;
+    font-weight: 100;
+
+}
+.cartJuegosh2{
+    margin-left: 89.6rem;
+    font-size: 17px;
+    color: #0068bd;
+}

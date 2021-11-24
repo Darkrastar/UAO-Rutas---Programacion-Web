@@ -1,0 +1,32 @@
+.cartJuegosItemContenedor {
+  width: 273.16px;
+  height: 348.16px;
+  margin-bottom: 5rem;
+  margin-right: 1rem;
+}
+.imagenCarta {
+  border: 0px solid;
+  border-radius: 10px 10px 10px 10px;
+  height: 273.16px;
+  width: 273.16px;
+}
+.cartaJuegoItem {
+  margin-top: -2px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.cartaJuegoDescrip {
+  font-size: 13px;
+  font-weight: 100;
+  margin-top: -10px;
+}
+
+.cartaJuegoPrecio {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: -7px;
+}
+
+.imagenCarta:hover {
+  border: 2px solid #0072ce;
+}

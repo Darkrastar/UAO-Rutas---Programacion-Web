@@ -1,0 +1,15 @@
+.sonyBustexto {
+  margin-left: 1rem;
+  margin-top: 3px;
+  width: 7.5rem;
+  height: 26px;
+  border: #d2d2d2 2px solid;
+}
+
+.icon {
+  transform: translateY(3px) translateX(-26px);
+}
+
+.sonyBustexto:hover{
+  border: gray 2px solid;
+}

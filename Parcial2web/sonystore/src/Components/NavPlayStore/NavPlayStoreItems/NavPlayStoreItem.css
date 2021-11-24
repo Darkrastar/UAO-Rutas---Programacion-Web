@@ -1,0 +1,11 @@
+.itemContenedor{
+    padding: 1rem;
+    margin-top: -12px;
+    font-size: 0.8rem;
+    margin-bottom:10px;
+}
+.itemContenedor:hover{
+    color:#0072ce;
+    border-bottom:5px solid #0072ce;
+    margin-bottom:1px;
+}

@@ -1,0 +1,11 @@
+.NavsonyContenedor{
+    height:40px;
+    display:flex;
+    flex-direction: row;
+}
+.imagenPS{
+    height:25.9926px;
+    width:33.6872px;
+    padding: 6px 1px 8px 29px;
+}
+

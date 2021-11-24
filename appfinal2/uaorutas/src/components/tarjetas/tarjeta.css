@@ -1,0 +1,21 @@
+.contarinerItemsT{
+    display:flex;
+    margin-left: 7rem;
+    flex-wrap: wrap;
+}
+.buttonSele{
+    position: relative;
+    height: 2rem;
+    transform: translateX(-81rem) translateY(43rem);
+}
+.tituloSele{
+    align-self: center;
+    width: 100rem;
+    margin-left: 39rem;
+    
+}
+.buttonPasa{
+    position: relative;
+    height: 2rem;
+    transform: translateX(78rem) translateY(-2.0rem);
+}

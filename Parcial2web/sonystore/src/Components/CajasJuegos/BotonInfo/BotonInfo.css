@@ -1,0 +1,19 @@
+.cajaJuegosBoton{
+    border: 1px solid;
+    border-radius: 35px;
+    padding: 10px 11px;
+    font-weight: 900;
+    color: white;
+    background-color: #0068bd;
+    font-size: 15px;
+
+}
+.botonInfoContenedor{
+    align-self: center;
+    margin-left: 23rem;
+
+}
+
+.cajaJuegosBoton:hover{
+    background-color: #00437a;
+}

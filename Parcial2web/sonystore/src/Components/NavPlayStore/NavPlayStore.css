@@ -1,0 +1,19 @@
+.navPlaySContenedor{
+
+    display:flex;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    margin-bottom: 2rem;
+
+}
+.imagenPSS{
+
+    width: 177px;
+    height: 37px;
+    margin-left: 29px;
+    margin-top: 16px;
+    margin-right: 27rem;
+
+}
+

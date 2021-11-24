@@ -1,0 +1,18 @@
+.containerApp {
+  display: flex;
+  flex-direction: column;
+}
+.btn-primary {
+  color: #fff;
+  background-color: red;
+  border-color: black;
+  
+}
+.btnCerrar {
+  position: absolute;
+  transform: translateX(104rem) translateY(72px);
+}
+.btnCentrar{
+  width: 10%;
+  margin-left: 53rem;
+}

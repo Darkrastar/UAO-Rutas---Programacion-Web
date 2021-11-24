@@ -1,0 +1,14 @@
+.cartGrandesContenedor2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5rem;
+    margin-top: 4rem;
+    justify-content: center;
+}
+.cartasGrandesTitulo{
+
+    width: 100%;
+    text-align: center;
+    margin-left: -31px;
+
+}

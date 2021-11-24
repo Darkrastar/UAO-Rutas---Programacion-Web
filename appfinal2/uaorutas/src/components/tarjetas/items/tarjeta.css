@@ -1,0 +1,17 @@
+.tituloRol{
+    text-align:center;
+
+}
+.imagenTarjeta{
+    width: 100%;
+    height: 34rem;
+    border: 1px solid;
+    border-radius: 0px 0px 10px 10px;
+
+}
+.containerTarjeta{
+    border: 1px solid;
+    width: 40%;
+    margin: 4rem;
+    border-radius: 10px;
+}

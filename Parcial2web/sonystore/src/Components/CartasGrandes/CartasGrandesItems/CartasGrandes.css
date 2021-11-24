@@ -1,0 +1,12 @@
+
+.imagenCartaGrandeItem {
+  margin-right: 1rem;
+  border: 0px solid;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.imagenCartaGrandeItem:hover{
+  filter: brightness(90%);
+
+}

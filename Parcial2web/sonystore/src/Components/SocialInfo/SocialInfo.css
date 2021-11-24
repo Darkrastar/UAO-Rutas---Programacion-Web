@@ -1,0 +1,27 @@
+.socialInfoContenedor{
+
+    display: flex;
+    background-color: #00439c;
+    padding: 5rem;
+    flex-wrap: wrap;
+
+}
+.logoSocialInfo{
+    width: 60px;
+    height: 60px;
+    margin-left: 17rem;
+}
+.iconMundo{
+    color: white;
+    font-size: 40px;
+    padding-top: 11px;
+    padding-left: 5rem;
+}
+.paisInfo{
+    width: 67rem;
+    margin-left: 12px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 23px;
+}

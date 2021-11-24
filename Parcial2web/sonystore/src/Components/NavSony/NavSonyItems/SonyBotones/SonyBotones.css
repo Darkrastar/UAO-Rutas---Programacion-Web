@@ -1,0 +1,25 @@
+.sonyBContenedor{
+    display: flex;
+    margin-top: -25px;
+    padding: 1rem;
+    padding-left: 29px;
+
+}
+
+.sonyBh3{
+    color: gray;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.iconB{
+    margin-top: 21px;
+    color: gray;
+    margin-left: 2px;
+}
+.sonyBh3:hover{
+    color: black;
+}
+.iconB:hover{
+    color:black;
+}

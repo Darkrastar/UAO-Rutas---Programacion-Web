@@ -1,0 +1,17 @@
+.SocialInfoColumnaContenedor{
+    width: 17rem;
+    margin-left: 17rem;
+    margin-top: 3rem;
+    margin-right: -154px;
+
+}
+.itemColumna{
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: -12px;
+    font-weight: 400;
+}
+
+.itemColumna:hover{
+    color:#c7d9ff
+}

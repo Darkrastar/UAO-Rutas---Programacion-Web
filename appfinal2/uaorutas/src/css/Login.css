@@ -1,0 +1,42 @@
+.containerPrincipal {
+  display: flex;
+}
+
+.containerSecundario {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  left: 77%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid rgb(250, 18, 10);
+  padding: 40px;
+  background-color: white;
+}
+.containerImagen {
+  position: absolute;
+  width: 960px;
+  height: 1080px;
+}
+
+.imagen {
+  width: 960px;
+  height: 1080px;
+}
+
+.imagenLogo {
+  width: 100%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 17rem;
+}
+
+.ref{
+  margin: 2rem 1rem;
+  color: gray;
+}
